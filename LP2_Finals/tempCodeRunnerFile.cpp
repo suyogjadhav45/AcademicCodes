@@ -1,0 +1,1 @@
+regex_constants::icase

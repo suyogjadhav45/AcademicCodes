@@ -1,0 +1,10 @@
+1. BFS DFS --------------------------DONE
+2. A*      --------------------------DONE (Practice Needed)
+3. Selction & Prims -----------------DONE
+4. NQueens  -------------------------DONE
+5. Expert System --------------------DONE
+6. ChatBot  -------------------------DONE
+7. Salesforce Scientific Calc
+8. Salesforce Currency Converter
+9. Salesforce Mini Project
+10. Salesforce Mini Project 

@@ -1,0 +1,10 @@
+---------PNTAB FOR M1 MACRO-------
+1. X
+2. Y
+3. A
+4. B
+---------PNTAB FOR M2 MACRO-------
+1. P
+2. Q
+3. U
+4. V
